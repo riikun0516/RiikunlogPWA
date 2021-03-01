@@ -1,27 +1,18 @@
-{
-  "display": "standalone",
-  "short_name": "りーろぐ",
+{ "short_name": "りーろぐ",
   "name": "りーろぐ-鉄道、ガジェットブログ-",
   "orientation": "portrait",
-  "icons": [
-    {
+  "icons": [{
       "src": "https://1.bp.blogspot.com/-UuerohYca3A/YDyizBTV2RI/AAAAAAAAIAY/xm3-YNpDvEAdeNsMTCpYYDUf1PmRDloEgCLcBGAsYHQ/s192/android-chrome-192x192.png",
       "type": "image/png",
-      "sizes": "192×192"
-    },
-    {
-      "src": "https://1.bp.blogspot.com/-_qsXlsd6ixA/YDyi6NnIZZI/AAAAAAAAIAc/wLZ0NLyQrscu-6UO65N5WoqYFLhdiywYgCLcBGAsYHQ/s512/android-chrome-512x512.png",
+      "sizes": "192×192" },
+    {"src": "https://1.bp.blogspot.com/-_qsXlsd6ixA/YDyi6NnIZZI/AAAAAAAAIAc/wLZ0NLyQrscu-6UO65N5WoqYFLhdiywYgCLcBGAsYHQ/s512/android-chrome-512x512.png",
       "type": "image/png",
-      "sizes": "512×512"
-    },
-
-  ],
-   "start_url": "/",
+      "sizes": "512×512"},],
+   "start_url": ".",
     "display": "standalone",
-    "orientation": "portrait-primary",
+    "orientation": "any",
     "background_color": "#fff",
     "theme_color": "#41C9B4",
     "description": "りーろぐです",
     "dir": "ltr",
-    "lang": "ja-jp"
-}
+    "lang": "ja-jp"}
