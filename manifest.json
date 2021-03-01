@@ -16,7 +16,12 @@
     },
 
   ],
-  "start_url": "./index.html",
-  "background_color": "#e1efde",
-  "theme_color": "#e1efde"
+   "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "background_color": "#fff",
+    "theme_color": "#41C9B4",
+    "description": "りーろぐです",
+    "dir": "ltr",
+    "lang": "ja-jp"
 }
